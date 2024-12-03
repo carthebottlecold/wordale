@@ -8,6 +8,8 @@ main {
 }
 
 .board-row {
+  font-size: 25px;
+  font-weight: bold;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -21,4 +23,9 @@ main {
   border: 2px solid #d3d6da;
   width: 60px;
   height: 60px;
+}
+
+#timer {
+  font-size: 22px;
+  font-weight: bold;
 }
